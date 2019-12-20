@@ -1,0 +1,94 @@
+.sampleText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+    font-style: italic;
+    width: 400px;
+    letter-spacing: 1pt;
+    color: indigo; 
+    border-left: solid 5px #ff0000 ;
+    padding-left: 30px;
+    margin-left: 30px;
+  
+
+    }
+
+    body{
+        margin: 0px;
+    }
+.body{
+    background-color: gainsboro;
+    margin: 0px;
+}
+
+.sampleTextt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: rgb(66, 46, 247);
+    padding-right: 10px;
+    padding-left: 20px;
+    text-align: center;
+    
+
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    font-size: 20pt;
+    text-decoration: none;
+
+}
+
+a:hover{
+
+    text-decoration: underline;
+}
+
+
+
+.bgImage{
+
+    background: url("image/cam1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.column{
+    
+    float: left;
+}
+.clear{
+    clear: both;
+}
+
+.positionMe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #header {
+    padding: 5px;
+    align-content: center;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 20pt;
+  }
+
+  .footer {
+    padding: 10px;
+    align-content: center;
+    background: #1abc9c;
+    color: white;
+    text-align: center;
+    font-size: 16pt;
+    font-style: italic;
+ }
+
+
+ .form{
+
+    padding-left: 2%;
+ }
